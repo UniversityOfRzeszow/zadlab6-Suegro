@@ -7,6 +7,8 @@ public class SkladoweStatyczne {
         
         System.out.println(Figury.PoleKola(0.5));
         System.out.println(Figury.ObwodKola(0.5));
+    
+       
     }
     
 }
